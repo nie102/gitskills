@@ -2,6 +2,4 @@
 
 - learn git
 - fix
-<<<<<<< HEAD
-- fixed
->>>>>>> test2
+- fix
