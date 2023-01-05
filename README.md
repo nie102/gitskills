@@ -2,4 +2,6 @@
 
 - learn git
 - fix
-- master new line
+<<<<<<< HEAD
+- fixed
+>>>>>>> test2
